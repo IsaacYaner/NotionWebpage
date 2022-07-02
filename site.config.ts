@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BIGD Trial Page',
-  domain: 'https://www.notion.so/1a2f2da3e22c4efaa83ff6597f2f4109?v=a9f4f972c0de4d59a13e4c6ac84ef7a8',
+  domain: 'https://dusty-cuticle-3ea.notion.site/1a2f2da3e22c4efaa83ff6597f2f4109?v=a9f4f972c0de4d59a13e4c6ac84ef7a8',
   author: 'Isaac', 
 
   // open graph metadata (optional)
