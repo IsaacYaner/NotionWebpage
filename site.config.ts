@@ -14,10 +14,10 @@ export default siteConfig({
   author: 'Isaac', 
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Isaac Yaner\'s personal blog',
 
   // social usernames (optional)
-  twitter: 'No',
+  //twitter: 'IsaacYaner',
   github: 'IsaacYaner',
   linkedin: 'isaacyaner',
   // newsletter: '#', // optional newsletter URL
